@@ -1,0 +1,22 @@
+{
+  "name": "fnte-cli",
+  "version": "1.0.0",
+  "description": "chinese file name to engilish",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/channg/fnte-cli.git"
+  },
+  "dependencies": {
+    "transliteration": "^1.2.1"
+  },
+  "devDependencies": {
+    "commander": "^2.9.0"
+  },
+  "scripts": {},
+  "author": "channg",
+  "license": "ISC",
+  "bin": {
+    "fnte": "./index.js"
+  }
+}
