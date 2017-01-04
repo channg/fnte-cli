@@ -11,12 +11,7 @@ npm install -g vue-cli
 
 ```
 
-or
 
-```
-    sudo npm install -g vue-cli
-
-```
 <h4>Usage</h4>
 
 ```
