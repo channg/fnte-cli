@@ -9,7 +9,6 @@
 
 ```
 npm install -g fnte-cli
-
 ```
 
 
